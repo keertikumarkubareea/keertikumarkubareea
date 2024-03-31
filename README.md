@@ -9,7 +9,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=keertikumarkubareea&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=keertikumarkubareea&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![Cool-GIFs-For-GitHub]([https://giphy.com/gifs/system-trapcode-particular-jWmCUOcXidvDmAZgO2](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif))
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGt6M20zZXBpMzNuZ2RrMDJxenM0ejhyejlvN2MzZDViZnhvc3B5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YRzQnWzbn4WIxd3ZYx/giphy.gif)
 
 
 ### ✍️ Random Dev Quote
