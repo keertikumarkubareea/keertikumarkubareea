@@ -9,7 +9,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=keertikumarkubareea&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=keertikumarkubareea&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+![system](https://giphy.com/gifs/system-trapcode-particular-jWmCUOcXidvDmAZgO2)
 
 
 ### ✍️ Random Dev Quote
