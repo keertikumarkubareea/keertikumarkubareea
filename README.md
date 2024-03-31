@@ -1,5 +1,6 @@
 # 💫 About Me:
 🤖 I am graduating in Spring 2024 with my Bachelor's in Engineering, Computer Systems<br>🦾 I am very passionate about software development that produces solutions to real-world problems<br>🗣️ Ask me about my projects<br>👨🏽‍💻 Previous industry professional experience as a Backend Software Developer at Ciena<br>🥽 Looking to expand my knowledge and skills base through full-time placement and also through projects that are in the planning pipeline 
+
 ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGt6M20zZXBpMzNuZ2RrMDJxenM0ejhyejlvN2MzZDViZnhvc3B5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YRzQnWzbn4WIxd3ZYx/giphy.gif)
 
 
